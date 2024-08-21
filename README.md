@@ -1,0 +1,1 @@
+This project is part of The Odin Project itinerary and it focus on putting into practice what I've learned in the previous lessons, i.e., creating an HTML page and using different resources as links and images.
